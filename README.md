@@ -1,2 +1,2 @@
-# LeeTxshar-C++
-LeetCode C++ Problems and Solutions
+# LeeTxshar-C#
+LeetCode C# Problems and Solutions
